@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:mala23/howto-ml5.git",
   "author": "mala23 <mail@mala23.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ml5": "^0.4.3"
+  }
 }
